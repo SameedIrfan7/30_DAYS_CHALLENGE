@@ -1,0 +1,2 @@
+
+Blockchain is a distributed ledger technology that enables secure, transparent, and decentralized recording of transactions across a network of computers. It was originally introduced as the underlying technology behind the cryptocurrency Bitcoin, but its applications have since expanded far beyond digital currencies.
